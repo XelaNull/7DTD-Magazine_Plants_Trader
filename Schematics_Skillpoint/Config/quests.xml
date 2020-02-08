@@ -1,0 +1,16 @@
+<configs>
+	<append xpath="/quests">
+		<quest id="quest_Skill_Point_Reward2">
+		<property name="group_name_key" value="quest_Skill_Point_Reward2" />
+		<property name="name_key" value="Skill Point Reward" />
+		<property name="subtitle_key" value="Gain a skillpoint" />
+		<property name="description_key" value="Gain a skillpoint through reading a schematic" />
+    <property name="offer_key" value="You read and learn the schematic and suddenly feel just a little bit smarter." />
+		<property name="icon" value="ui_game_symbol_quest" />
+		<property name="category_key" value="quest" />
+		<property name="difficulty" value="easy"/>
+		<property name="shareable" value="false" />
+		<reward type="SkillPoints" value="1" />
+		</quest>
+	</append>
+</configs>

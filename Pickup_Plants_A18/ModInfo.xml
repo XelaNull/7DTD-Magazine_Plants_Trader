@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Pickup_Plants_A18" />
+		<Description value="Allows press E to pickup all plants. Based on Ragsy2145's Pickup_Plants Modlet" />
+		<Author value="ShoudenKalferas"/>
+		<Version value="A18.3_1.3" />
+		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
+	</ModInfo>
+</xml>

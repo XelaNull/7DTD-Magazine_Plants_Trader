@@ -1,0 +1,9 @@
+<config>
+  <append xpath="/items/item[@name='schematicMaster']">
+    <property class="Action1">
+      <property name="Class" value="Quest"/>
+      <property name="Delay" value="0"/>
+      <property name="QuestGiven" value="quest_Skill_Point_Reward2"/>
+    </property>
+  </append>
+</config>
