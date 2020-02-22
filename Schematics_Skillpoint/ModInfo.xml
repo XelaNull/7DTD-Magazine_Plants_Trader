@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Schematic_Skillpoint" />
+		<Name value="Schematics_Skillpoint" />
 		<Description value="Give a skillpoint with each schematic" />
 		<Author value="ShoudenKalferas"/>
 		<Version value="A18.3_1.3" />
