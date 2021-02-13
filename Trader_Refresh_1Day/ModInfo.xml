@@ -4,7 +4,7 @@
 		<Name value="Trader_Refresh_1Day" />
 		<Description value="Set all traders to refresh each day" />
 		<Author value="ShoudenKalferas"/>
-		<Version value="A19_1.0" />
-		<Website value="https://github.com/XelaNull/7dtd-Modlets.git" />
+		<Version value="A19.3_1.0" />
+		<Website value="https://github.com/XelaNull/7DTD-Magazine_Plants_Trader.git" />
 	</ModInfo>
 </xml>
