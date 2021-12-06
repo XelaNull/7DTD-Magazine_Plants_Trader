@@ -1,3 +1,5 @@
+Tested under Alpha 20 (b218)
+
 Magazine_Skillpoint :: Gives a Skill Point each time a Magazine is read.
 
 Pickup_Plants_A18 :: Pickup all plants with the key E.
