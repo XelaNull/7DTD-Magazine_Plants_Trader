@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="Pickup_Plants_A19" />
+		<Name value="Pickup_Plants" />
+		<DisplayName value="Pickup Plants" />
 		<Description value="Allows press E to pickup all plants. Based on Ragsy2145's Pickup_Plants Modlet" />
 		<Author value="Shouden Kalferas"/>
-		<Version value="A20_1.0" />
+		<Version value="1.0_1.0a" />
 		<Website value="https://github.com/XelaNull/7DTD-Magazine_Plants_Trader.git" />
-	</ModInfo>
 </xml>
